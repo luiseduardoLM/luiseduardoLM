@@ -17,6 +17,8 @@
 
 📍 Ciudad de México, México
 
+Me apasiona transformar datos en información útil para la toma de decisiones mediante análisis, visualización y automatización.
+
 📫 Contacto: **luiseduardo@ciencias.unam.mx**
 <!--Intro end-->
   </p>
@@ -26,7 +28,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,postgres,git,github,vscode,bash,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,postgres,git,github,vscode,latex,windows,powershell,bash,ps&perline=12" />
   </a>
 </p>
 
