@@ -17,7 +17,7 @@
 
 📍 Ciudad de México, México
 
-Me apasiona transformar datos en información útil para la toma de decisiones mediante análisis, visualización y automatización.
+Apasionado por el análisis y la ciencia de datos, con experiencia en Python, SQL y visualización de información. Actualmente me encuentro ampliando mis conocimientos en Machine Learning para complementar mis habilidades analíticas y desarrollar soluciones basadas en datos que generen valor y apoyen la toma de decisiones.
 
 📫 Contacto: **luiseduardo@ciencias.unam.mx**
 <!--Intro end-->
