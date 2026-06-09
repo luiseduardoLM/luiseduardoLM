@@ -30,12 +30,6 @@
   </a>
 </p>
 
-</table>
-  </div>
-<br>
-<br>
-<br><br><br>
-<br><br>
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
@@ -59,13 +53,6 @@
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=luiseduardoLM&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
 
 
 </p>        
