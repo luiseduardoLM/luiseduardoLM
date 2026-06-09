@@ -10,8 +10,11 @@
 
 <p align="left">
 🎓 Estudiante de Física en la UNAM
+  
 📊 Data Analyst Jr.
+
 💻 Python | SQL | Power BI
+
 📍 Ciudad de México, México
 
 📫 Contacto: **unsimpledev@gmail.com**
@@ -23,7 +26,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,postgres,git, github, vscode,bash, ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,postgres,git,github,vscode,bash,ps&perline=12" />
   </a>
 </p>
 <br>
