@@ -29,7 +29,6 @@
     <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,postgres,git,github,vscode,bash,ps&perline=12" />
   </a>
 </p>
-<br>
 
 </tr>
 </table>
