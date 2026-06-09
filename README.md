@@ -19,6 +19,15 @@
   </p>
 <br>
 
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,git,github,vscode,bash,ps&perline=12" />
+  </a>
+</p>
+<br>
+
 </tr>
 </table>
   </div>
