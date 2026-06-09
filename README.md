@@ -17,7 +17,7 @@
 
 📍 Ciudad de México, México
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **luiseduardo@ciencias.unam.mx**
 <!--Intro end-->
   </p>
 <br>
@@ -30,7 +30,6 @@
   </a>
 </p>
 
-</tr>
 </table>
   </div>
 <br>
