@@ -28,7 +28,7 @@ Me apasiona transformar datos en información útil para la toma de decisiones m
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,postgres,git,github,vscode,latex,windows,powershell,bash,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,postgres,git,github,vscode,latex,windows,powershell,bash,perline=12" />
   </a>
 </p>
 
